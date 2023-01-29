@@ -22,6 +22,7 @@ export class gameloading extends Component {
     loadingProgressBar: ProgressBar | null = null;
     @property({type:string})
     nextSceneName: string | null = 'menu'
+    //test
     start () {
         // [3]
         director.preloadScene(this.nextSceneName,(completedCount,totalCount)=>{
