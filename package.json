@@ -1,0 +1,11 @@
+{
+  "creator": {
+    "version": "3.7.0"
+  },
+  "name": "SeaBattle",
+  "uuid": "470062b8-e697-4313-a1d3-11d157be9048",
+  "version": "3.6.3",
+  "dependencies": {
+    "socket.io-client": "^4.5.4"
+  }
+}
